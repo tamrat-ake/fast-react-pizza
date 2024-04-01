@@ -1,1 +1,1 @@
-a website that is build from react and taiwind for pizza
+a website that is built from react and taiwind for pizza
